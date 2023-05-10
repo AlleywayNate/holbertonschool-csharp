@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hROuYU5WXR2ZEqSeuIOWgFykX2XunGwtwblGihkDEcBmnHw5rJmnr2vfCUkhdjsKcBPSJ1ix/gAlua0wUW06tg==",
+  "dgSpecHash": "oJdUGzO03JlN6NaPm7FiDJ94abwTOQ3NQPQ3QhwRzGCdeD+ofo9a42GZnRvSc2lNSHJXLVEr8sUCCf3v9bvkWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nathen Williams\\Desktop\\Holberton C# Assignments\\holbertonschool-csharp\\0x00-csharp-hello_world\\0-new_project\\0-new_project.csproj",
+  "projectFilePath": "C:\\Users\\Nathen Williams\\Holberton-csharp\\holbertonschool-csharp\\csharp-hello_world\\0-new_project\\0-new_project.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

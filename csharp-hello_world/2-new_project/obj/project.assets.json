@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nathen Williams\\Holberton-csharp\\holbertonschool-csharp\\csharp-hello_world\\0-new_project\\0-new_project.csproj",
-      "projectName": "0-new_project",
-      "projectPath": "C:\\Users\\Nathen Williams\\Holberton-csharp\\holbertonschool-csharp\\csharp-hello_world\\0-new_project\\0-new_project.csproj",
+      "projectUniqueName": "C:\\Users\\Nathen Williams\\Desktop\\Holberton C# Assignments\\holbertonschool-csharp\\0x00-csharp-hello_world\\2-new_project\\2-new_project.csproj",
+      "projectName": "2-new_project",
+      "projectPath": "C:\\Users\\Nathen Williams\\Desktop\\Holberton C# Assignments\\holbertonschool-csharp\\0x00-csharp-hello_world\\2-new_project\\2-new_project.csproj",
       "packagesPath": "C:\\Users\\Nathen Williams\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nathen Williams\\Holberton-csharp\\holbertonschool-csharp\\csharp-hello_world\\0-new_project\\obj\\",
+      "outputPath": "C:\\Users\\Nathen Williams\\Desktop\\Holberton C# Assignments\\holbertonschool-csharp\\0x00-csharp-hello_world\\2-new_project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nathen Williams\\AppData\\Roaming\\NuGet\\NuGet.Config",
